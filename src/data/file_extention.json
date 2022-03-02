@@ -1,0 +1,37 @@
+{
+    "images": [
+        ".jpeg",
+        ".png",
+        ".jpg"
+    ],
+    "videos": [
+        ".mkv",
+        ".mp4",
+        ".mov"
+    ],
+    "documents": [
+        ".txt",
+        ".pdf",
+        ".docx",
+        "doc",
+        ".xls"
+    ],
+    "audio": [
+        ".mp3",
+        ".wav",
+        ".aac"
+    ],
+    "compressed": [
+        ".zip",
+        ".rar",
+        ".7z",
+        ".tar",
+        ".gz"
+    ],
+    "executables": [
+        ".exe",
+        ".msi",
+        ".apk",
+        ".dmg"
+    ]
+}
